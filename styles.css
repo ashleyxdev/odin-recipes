@@ -1,10 +1,14 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 .cont {
   margin: 0 auto;
   padding: 0 20px;
 }
 
 .cont-home {
-   max-width: 600px;
+  max-width: 600px;
 }
 
 .cont-recipe {
@@ -13,7 +17,7 @@
 
 .img {
   display: block;
-  width: 100%;  
+  width: 100%;
   border-radius: 8px;
   margin: 0 auto;
 }
@@ -33,6 +37,6 @@ nav {
 }
 
 footer {
-    border-top: 1px solid;
-    padding: 8px 0;
+  border-top: 1px solid;
+  padding: 8px 0;
 }
